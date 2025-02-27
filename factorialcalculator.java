@@ -7,6 +7,6 @@ public class factorialcalculator {
             factorial *= i;  // Multiply current number
         }
 
-        System.out.println("Factorial of " + num + " is: " + factorial + " (Feat. Jenkins Build 3)");
+        System.out.println("Factorial of " + num + " is: " + factorial + " (Feat. Jenkins Build 4)");
     }
 }
